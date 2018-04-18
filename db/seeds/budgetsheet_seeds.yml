@@ -1,0 +1,9 @@
+---
+- title: 'Hardware'
+  description: 'Use this budget for hardware.'
+  budget: '200000'
+  expenditure_log: '---\n-monitor: 2500\n  laptop: 30000'
+- title: 'Software'
+  description: 'Use this budget for software.'
+  budget: '150000'
+  expenditure_log: "---\n-Tableau_Personal_for_1y: 12600\n  Amber_Academic: 16000"
